@@ -46,9 +46,3 @@ From the positive and negative feelings of the users and critics, we analyze the
 - [@James Mollard ](https://www.github.com/)
 
 
-# Follow us
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/linaelbouazzaoui)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/)
-
-
